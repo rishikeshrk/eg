@@ -2,8 +2,7 @@ sample working on git
 
 now i am changing the content of branch
 
-<<<<<<< HEAD
+
 I am making changes on a local branch
-=======
+
 I am making remote changes
->>>>>>> 86c8b75fdebcc0fb969afacb4efa7eaef5df954f
